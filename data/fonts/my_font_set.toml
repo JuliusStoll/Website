@@ -5,7 +5,7 @@ name = "Minimal"
 google_fonts = "family=Montserrat:wght@400;700&family=Newsreader&family=Newsreader+Bold:wght@400;700"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Newsreader Bold"
 body_font = "Newsreader"
-nav_font = "Newsreader"
+nav_font = "Montserrat"
 mono_font = "Newsreader Bold"
