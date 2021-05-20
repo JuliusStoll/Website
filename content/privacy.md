@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Impressum
 date: "2018-06-28T00:00:00+01:00"
 draft: false
 share: false
@@ -11,8 +11,6 @@ header:
   caption: ""
   image: ""
 ---
-
-<h1>Impressum</h1>
 
 <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
 <p>Julius Stoll<br />
