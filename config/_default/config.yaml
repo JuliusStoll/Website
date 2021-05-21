@@ -5,7 +5,7 @@
 
 title: Julius Stoll # Website name
 baseurl: 'https://juliusstoll.netlify.app' # Website URL
-copyright: '© {2021} Julius Stoll' # Footer text, e.g. '© {year} Me'
+copyright: '© (2021) Julius Stoll' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
