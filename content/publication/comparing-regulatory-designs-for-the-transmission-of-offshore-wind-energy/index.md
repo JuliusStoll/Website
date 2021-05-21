@@ -6,7 +6,7 @@ publication_types:
 authors:
   - with Yann Girard and Claudia Kemfert
 doi: 10.5547/2160-5890.10.1.ygir
-publication: Economics of Energy & Environmental Policy Vol. 10, No. 1
+publication: Economics of Energy & Environmental Policy. Vol. 10, No. 1
 publication_short: ""
 abstract: >-
   Offshore wind plays an ever-increasing role for the global transition to
@@ -51,4 +51,3 @@ image:
   preview_only: false
 date: 2021-05-21T13:15:37.824Z
 ---
-We investigate XXX in this and that
