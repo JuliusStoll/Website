@@ -21,13 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: julius.stoll@gmail.com
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
 contact_links:
   - icon: twitter
     icon_pack: fab
