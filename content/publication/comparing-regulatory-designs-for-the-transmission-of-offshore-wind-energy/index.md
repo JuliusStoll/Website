@@ -1,13 +1,13 @@
 ---
 title: Comparing Regulatory Designs for the Transmission of Offshore Wind Energy
+subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Girard
-  - Yann;Kemfert
-  - Claudia;Stoll
-  - Julius
+  - with Yann Girard and Claudia Kemfert
 doi: 10.5547/2160-5890.10.1.ygir
+publication: Economics of Energy & Environmental Policy Vol. 10, No. 1
+publication_short: ""
 abstract: >-
   Offshore wind plays an ever-increasing role for the global transition to
   renewable
@@ -47,7 +47,7 @@ draft: false
 featured: false
 image:
   filename: ""
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 date: 2021-05-21T13:15:37.824Z
 ---
