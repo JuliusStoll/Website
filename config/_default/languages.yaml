@@ -15,7 +15,7 @@ contentDir: content/de/
   title: Chinese website title...
 params:
   description: Site description in Chinese...
-menu:
+menu: menus.de.yaml
 main:
   - name: Home
     url: '#about'
