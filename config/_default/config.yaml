@@ -11,18 +11,6 @@ copyright: '© (2021) Julius Stoll' # Footer text, e.g. '© {year} Me'
 ## LANGUAGE
 ############################
 
-languages:
-  en:
-	languageName: English
-	weight: 1
-	contentDir: content/en
-  fr:
-	languageName: Deutsch
-	weight: 2
-	contentDir: content/de
-
-
-
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
