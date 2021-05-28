@@ -12,8 +12,7 @@ en:
 de:
 languageCode: de
 contentDir: content/de
-  title: Chinese website title...
+  title: Website Title in German
 params:
-  description: Site description in Chinese...
-menu: 
-main:
+  description: Website Description in German
+
