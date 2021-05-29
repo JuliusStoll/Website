@@ -12,7 +12,6 @@ en:
 de:
 languageCode: de
 contentDir: content/de
-  title: Website Title in German
 params:
   description: Website Description in German
 
