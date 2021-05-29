@@ -15,11 +15,7 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true
-main_menu:
-  show_translations: true
-  show_language: true  # If you wish to display the current language name
-footer:
-  show_translations: true
+
 
 
 ############################
