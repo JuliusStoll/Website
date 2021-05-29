@@ -10,10 +10,10 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
-  - name: Publications
+  - name: Veroeffentlichung
     url: '#publications'
     weight: 50
-  - name: Contact
+  - name: Kontakt
     url: '#contact'
     weight: 60
 
