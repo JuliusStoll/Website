@@ -13,7 +13,7 @@ copyright: '© (2021) Julius Stoll' # Footer text, e.g. '© {year} Me'
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 
